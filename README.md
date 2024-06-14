@@ -1,7 +1,7 @@
 👋 Hi, I’m Murali K N 
 👀 I’m interested in software development, problem-solving, and exploring new technologies.
 🌱 I’m currently working as an Intern at Nunc Systems Pvt Ltd in Hyderabad.
-💞️ I’m looking to collaborate on Java-based projects, particularly those involving Spring Boot, as well as web development projects using PHP, HTML/CSS, and JavaScript.
+💞️ I’m looking to collaborate on Java-based projects, PHP-based projects, particularly those involving Spring Boot, as well as web development projects using PHP, HTML/CSS,jQuery and JavaScript.
 📫 How to reach me:
   - Email: muraliroyal0504@gmail.com/knmurali91@gmail.com
   - Phone: +91-6300131956/ 7095081301
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 #### TECHNICAL/HARD SKILLS:
 
 - **Languages:** Java, PHP, HTML, CSS, JavaScript, jQuery
-- **Databases:** MySQL
+- **Databases:** MySQL,SQL
 - **Frameworks:** Spring Boot, Slim
 - **Version Control and API Testing Tools:** GitHub, Postman,Apidog,SonarQube
 - **Web Technologies:** HTML,CSS
