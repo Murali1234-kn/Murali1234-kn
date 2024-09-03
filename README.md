@@ -7,9 +7,9 @@
 📫 How to reach me:
   - Email: muraliroyal0504@gmail.com/knmurali91@gmail.com
   - Phone: +91-6300131956/ 7095081301
-- 😄 Pronouns: He/him
-- ⚡ Fun fact:  In my free time, I love experimenting with new recipes, hanging out with friends, and exploring adventurous travel destinations.
-- 
+  - 😄 Pronouns: He/him
+  - ⚡ Fun fact:  In my free time, I love experimenting with new recipes, hanging out with friends, and exploring adventurous travel destinations.
+    
 ### Skills
 #### TECHNICAL/HARD SKILLS:
 
