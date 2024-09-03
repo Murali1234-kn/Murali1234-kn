@@ -18,5 +18,5 @@
 - **Frameworks:** Spring Boot, Slim, Custom frameworks[Company].
 - **Version Control and API Testing Tools:** GitHub, Postman,Apidog,SonarQube
 - **Web Technologies:** HTML,CSS, Bootsrap
-- **Database Tools: MySQL Workbench, phpMyAdmin, HeidiSQL
+- Database Tools: MySQL Workbench, phpMyAdmin, HeidiSQL
 - **Integrated Development Tools:** IntelliJ IDEA, Visual Studio Code, Postman, PhpStorm, XAMPP
